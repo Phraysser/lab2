@@ -1,0 +1,3 @@
+﻿  main10.cpp
+C:\Users\phray\source\repos\main10\main10\main10.cpp(54,26): warning C4305: *=: усечение из "double" в "float"
+  main10.vcxproj -> C:\Users\phray\source\repos\main10\x64\Debug\main10.exe
