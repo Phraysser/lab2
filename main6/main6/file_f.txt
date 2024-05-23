@@ -1,0 +1,4 @@
+This is a sample file for copying.
+It contains some text data.
+12345
+Special characters: @#$%^&*
